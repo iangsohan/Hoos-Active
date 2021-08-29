@@ -1,0 +1,9 @@
+boto3
+django-storages
+Django
+gunicorn
+django-heroku
+django-allauth
+psycopg2
+Pillow
+six
