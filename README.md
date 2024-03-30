@@ -2,7 +2,7 @@
 
 This is our project for CS 3240 - Hoos Active
 
-Checkout our website [here](https://hoos-active.herokuapp.com).
+Checkout our website [here](https://hoos-active.herokuapp.com). [No longer operational]
 
 Our website aims to encourage users to exercise and self-report exercise through features that promote friendly competition with other users. Upon logging in, users can access all of HoosActive's features once an email has been confirmed and a profile has successfully been created.
 
